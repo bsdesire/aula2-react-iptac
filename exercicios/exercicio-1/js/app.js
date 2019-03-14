@@ -93,7 +93,7 @@ class TodoList extends React.Component {
 }
 
 /**
- * Representa a lista de tarefas que o utilizador tem para fazer.
+ * Representa a lista de tarefas que o utilizador tem para fazer..
  */
 class ListaTodos extends React.Component {
     render() {
